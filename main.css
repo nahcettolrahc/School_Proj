@@ -1,6 +1,6 @@
-/* .box{
-    color: chartreuse;
-} */
-.container div div{
-    color: fuchsia;
+:root{
+    --text-color:red;
+}
+.row {
+    border:1px solid black; 
 }
