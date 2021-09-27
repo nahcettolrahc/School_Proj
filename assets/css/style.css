@@ -47,10 +47,56 @@ html{
   }
 .content{
     background-color:#aaa;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 .content .column img {
     width: 100%;
     height:auto;
 
 }
+.spaceship{
+padding: 230px;
+}
+.navi{
+    min-height: 260px;
+    background-color: #f9fadc;
+    
+}
+.navi .column{
+    padding-left: 40px;
+    padding-right:40px;
+}
+.navi .column h1{
+    color:#0067ac;
+    text-transform: uppercase;
+}
 
+#footer{
+    min-height: 500px;
+    background-color:#252429;
+    color: aliceblue;
+}
+#footer .column{
+    padding-left: 10px;
+
+}
+#footer .column h1{
+    text-transform: uppercase;
+    padding-left: 30px;
+    padding-right:30px;
+    font-size: 18px;
+}
+#footer p{
+  padding: 10px 40px 10px 30px;
+}
+#footer img{
+    padding: 10px 40px 10px 30px;
+}
+#credit{
+    min-height: 30px;
+    background-color:lightsalmon;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
